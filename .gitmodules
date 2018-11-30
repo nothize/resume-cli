@@ -1,0 +1,4 @@
+[submodule "kendall"]
+	path = kendall
+	url = git@github.com:nothize/jsonresume-theme-kendall.git
+	branch = nothize
